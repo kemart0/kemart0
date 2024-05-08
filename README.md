@@ -1,16 +1,19 @@
-### Hi there 👋
+# Kelsey Martin
+## About Me
+Hi there 👋
+I am currently a PhD student in the Cell and Molecular Biology Program at Colorado State University. 
 
-<!--
-**kemart0/kemart0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My research is focused on non-tuberculous mycobacteria in the [Jackson Lab](https://labs.vetmedbiosci.colostate.edu/jackson/) at CSU.
+My scientific interests include drug discovery, antimicrobial resistance, and host-pathogen interactions. 
 
-Here are some ideas to get you started:
+I also enjoy communicating science through data visualization, and you can find a link to a portfolio of my work below!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Useful Links:
+Connect with me on [LinkedIn](https://www.linkedin.com/in/kelsey-e-martin/)!
+
+[View a portfolio of my work](https://github.com/kemart0/my-resources/tree/main/my-examples)
+
+[View interesting CM515 Classwork](https://github.com/kemart0/CSU_CM515_2024)
+
+
+
